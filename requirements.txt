@@ -3,7 +3,7 @@ bs4==0.0.1
 certifi==2018.1.18
 chardet==3.0.4
 idna==2.6
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 selenium==3.9.0
 urllib3==1.22
